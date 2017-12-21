@@ -26,3 +26,5 @@ branches:
 env:
  global:
    - GH_REF: github.com/sunsunstar/sunsunstar.github.io.git
+
+#it failed, how is going?
