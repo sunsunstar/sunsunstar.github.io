@@ -22,7 +22,7 @@ after_script:
 
 branches:
   only:
-    - master
+    - hexo
 env:
  global:
    - GH_REF: github.com/sunsunstar/sunsunstar.github.io.git
