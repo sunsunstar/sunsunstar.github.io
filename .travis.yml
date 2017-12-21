@@ -8,7 +8,6 @@ install:
 
 
 script:
-  - git submodule update
   - hexo g
 
 after_script:
